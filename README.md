@@ -9,6 +9,6 @@ A smart contract to keep track of grocery items and its transactions
 
 **Deployed on Sepolia Testnet**
 
-Contract: 0x3280Ba65B20aEeD5c2A941CE1C2497697267CaA8
+Contract: 0xA27232a9F21299Ae193a4f9417436DB167859c3d
 
-[View on Etherscan](https://sepolia.etherscan.io/address/0x3280Ba65B20aEeD5c2A941CE1C2497697267CaA8)
+[View on Etherscan](https://sepolia.etherscan.io/address/0xA27232a9F21299Ae193a4f9417436DB167859c3d)
